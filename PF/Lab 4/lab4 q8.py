@@ -1,0 +1,14 @@
+# Q8 - Largest among 3 numbers
+
+num1 = int(input("Number 1: "))
+num2 = int(input("Number 2: "))
+num3 = int(input("Number 3: "))
+
+if num1 > num2 and num1 > num3:
+    largest = num1
+elif num2 > num1 and num2 > num3:
+    largest = num2
+else:
+    largest = num3
+
+print("Largest >>> " + str(largest))
