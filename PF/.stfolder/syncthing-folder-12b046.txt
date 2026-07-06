@@ -1,0 +1,5 @@
+# This directory is a Syncthing folder marker.
+# Do not delete.
+
+folderID: mjhz2-gdf2s
+created: 2026-06-22T15:21:16+05:30
